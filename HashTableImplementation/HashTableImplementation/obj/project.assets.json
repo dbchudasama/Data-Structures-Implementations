@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dchudasama\\Documents\\Visual Studio 2019\\Data-Structures-Implementations\\HastTableImplementation\\HastTableImplementation\\HashTableImplementation.csproj",
+      "projectUniqueName": "C:\\Users\\dchudasama\\Documents\\Visual Studio 2019\\Data-Structures-Implementations\\HashTableImplementation\\HashTableImplementation\\HashTableImplementation.csproj",
       "projectName": "HashTableImplementation",
-      "projectPath": "C:\\Users\\dchudasama\\Documents\\Visual Studio 2019\\Data-Structures-Implementations\\HastTableImplementation\\HastTableImplementation\\HashTableImplementation.csproj",
+      "projectPath": "C:\\Users\\dchudasama\\Documents\\Visual Studio 2019\\Data-Structures-Implementations\\HashTableImplementation\\HashTableImplementation\\HashTableImplementation.csproj",
       "packagesPath": "C:\\Users\\dchudasama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dchudasama\\Documents\\Visual Studio 2019\\Data-Structures-Implementations\\HastTableImplementation\\HastTableImplementation\\obj\\",
+      "outputPath": "C:\\Users\\dchudasama\\Documents\\Visual Studio 2019\\Data-Structures-Implementations\\HashTableImplementation\\HashTableImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

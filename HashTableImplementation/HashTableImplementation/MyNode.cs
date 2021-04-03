@@ -58,14 +58,16 @@ namespace HastTableImplementation
         /// <param name="value"></param>
         public void set(string key, int value)
         {
-            //Setting index value to has function
+            //Setting index value to hash function
             int index = hash(key);
 
-            
+            //If hash function is empty (nothing stored)
             if (data[index] == null)
             {
+                //Create a new key value node
                 data[index] = new MyNodes();
             }
+            //Else, add Node to hash table at hash function index
             data[index].Add(new MyNode(key, value));
         }
 
